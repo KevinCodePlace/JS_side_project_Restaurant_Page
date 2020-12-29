@@ -2,9 +2,11 @@
 這是 Lidemy 課程第十八周作業，將以往的 HTML、CSS 頁面合併並且新增後台
 
 餐廳前台：https://reurl.cc/6lAD5d
-[Imgur](https://i.imgur.com/LDT40W5.png)
+
+![Imgur](https://i.imgur.com/LDT40W5.png)
+
 餐廳前台：https://reurl.cc/6lADdr
-[Imgur](https://i.imgur.com/zejlnLf.png)
+![Imgur](https://i.imgur.com/zejlnLf.png)
 
 # 主要功能說明：
 ---
