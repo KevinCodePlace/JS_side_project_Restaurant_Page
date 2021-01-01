@@ -1,5 +1,5 @@
 # Lidemy 餐廳網址
-這是 Lidemy 課程第十八周作業，將以往的 HTML、CSS 頁面合併並且新增後台
+這是 Lidemy 課程第十八周延伸作品，將以往的 HTML、CSS 頁面合併並且新增後台
 
 餐廳前台：https://reurl.cc/6lAD5d
 
