@@ -5,6 +5,7 @@
 
 ![Imgur](https://i.imgur.com/LDT40W5.png)
 
+因 Heroku 平台需重新開機，故點擊連結後需等 10-15 秒即可看到畫面。
 
 # 主要功能說明：
 ---
